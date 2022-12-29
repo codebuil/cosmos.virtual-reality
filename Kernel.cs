@@ -83,7 +83,7 @@ namespace Cosmos_Graphic_Subsytem
         {
             try
             {
-                mDebugger.Send("Run");
+               
                 VirtualReality vr = new VirtualReality();
 
                 while (true)
